@@ -61,7 +61,7 @@
 }
 .home .content{
     text-align: center;
-    padding-top: 350px;
+    padding-top: 370px;
 }
 .home .content h5{
     color: white;
@@ -131,6 +131,7 @@
     }
     .home .content p{
         font-size: 13px;
+        padding: 0 50px;
     }
 }
 /* Home Section End */
